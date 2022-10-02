@@ -1,0 +1,6 @@
+# ninja log v5
+8	2540	6859173723874404	CMakeFiles/imagenes.dir/imagen.cpp.obj	20674088348b68fe
+1	3896	6853764702725217	CMakeFiles/imagenes.dir/fecha.cpp.obj	fbd200817213780
+5	1699	6864331234896099	CMakeFiles/imagenes.dir/main.cpp.obj	bc106a538a68fd9
+12	1641	6864331234306063	CMakeFiles/imagenes.dir/contenedor_Imagenes.cpp.obj	95431fdec0ec5547
+1700	2035	6864331238187210	imagenes.exe	61c8a9cc244a1721
