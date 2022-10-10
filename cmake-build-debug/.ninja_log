@@ -1,6 +1,22 @@
 # ninja log v5
-8	2540	6859173723874404	CMakeFiles/imagenes.dir/imagen.cpp.obj	20674088348b68fe
-1	3896	6853764702725217	CMakeFiles/imagenes.dir/fecha.cpp.obj	fbd200817213780
-5	1699	6864331234896099	CMakeFiles/imagenes.dir/main.cpp.obj	bc106a538a68fd9
-12	1641	6864331234306063	CMakeFiles/imagenes.dir/contenedor_Imagenes.cpp.obj	95431fdec0ec5547
-1700	2035	6864331238187210	imagenes.exe	61c8a9cc244a1721
+12	1639	6867545960666890	CMakeFiles/imagenes.dir/imagen.cpp.obj	d67bc755974eb5c6
+6	1820	6867057188659218	CMakeFiles/imagenes.dir/fecha.cpp.obj	fcc322f50f42a946
+5	253	6866991472872591	build.ninja	c4a1fad19ddd3604
+6	2011	6869553177379747	CMakeFiles/imagenes.dir/main.cpp.obj	b2cb967ebeaccf17
+14	1580	6869553173069442	CMakeFiles/imagenes.dir/vDinamico.cpp.obj	625444c760a2fd41
+2011	2288	6869553180099911	imagenes.exe	ad9d0c9fd101620
+4	1695	6869553431740593	CMakeFiles/imagenes.dir/main.cpp.obj	b2cb967ebeaccf17
+1696	1890	6869553433650731	imagenes.exe	ad9d0c9fd101620
+36	8884	6869680248244497	CMakeFiles/imagenes.dir/main.cpp.obj	b2cb967ebeaccf17
+8886	10421	6869680263535636	imagenes.exe	ad9d0c9fd101620
+7	2602	6870250712139199	CMakeFiles/imagenes.dir/main.cpp.obj	b2cb967ebeaccf17
+2603	3016	6870250716254782	imagenes.exe	ad9d0c9fd101620
+6	2063	6870252346910539	CMakeFiles/imagenes.dir/main.cpp.obj	b2cb967ebeaccf17
+2064	2277	6870252348982619	imagenes.exe	ad9d0c9fd101620
+11	1264	6870258135803597	CMakeFiles/imagenes.dir/vDinamico.cpp.obj	625444c760a2fd41
+5	1599	6870258139133846	CMakeFiles/imagenes.dir/main.cpp.obj	b2cb967ebeaccf17
+1599	1811	6870258141193997	imagenes.exe	ad9d0c9fd101620
+10	1772	6871212331940261	CMakeFiles/imagenes.dir/imagen.cpp.obj	d67bc755974eb5c6
+15	2148	6871212335760544	CMakeFiles/imagenes.dir/vDinamico.cpp.obj	625444c760a2fd41
+5	2391	6871212338170722	CMakeFiles/imagenes.dir/main.cpp.obj	b2cb967ebeaccf17
+2391	2780	6871212342021009	imagenes.exe	ad9d0c9fd101620

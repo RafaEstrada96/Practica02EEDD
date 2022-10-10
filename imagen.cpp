@@ -4,7 +4,14 @@
 
 #include "imagen.h"
 
-imagen::imagen() {}
+imagen::imagen() {
+    id = "";
+    email = "";
+    nombre = "";
+    tam = 0;
+    fecha = Fecha();
+    etiquetas = "";
+}
 
 imagen::imagen(string _id, string _email, string _nombre,int _tam, Fecha _fecha, string _etiqueta) {
     id = _id;
@@ -97,6 +104,28 @@ bool imagen::operator>=(const imagen &rhs) const {
     }
     return false;
 }
+
+bool imagen::operator==(const imagen &rhs) const {
+    if(stoi(id) == stoi(rhs.id))
+    {
+        return true;
+    }
+    return false;
+}
+
+imagen &imagen::operator=(imagen img) {
+    if (&img != this)
+    {
+        id = img.id;
+        email = img.email;
+        nombre = img.nombre;
+        tam = img.tam;
+        fecha = img.fecha;
+        etiquetas = img.etiquetas;
+    }
+    return *this;
+}
+
 
 imagen::~imagen() {
     id="";

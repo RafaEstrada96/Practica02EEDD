@@ -50,16 +50,20 @@ public:
     const string &getEtiquetas() const;
     /** Asignar etiquetas. */
     void setEtiquetas(const string &etiquetas);
-
-    virtual ~imagen();
-
+    /** Operador < de la clase imagen. Compara segun el Id. */
     bool operator<(const imagen &rhs) const;
-
+    /** Operador > de la clase imagen. Compara segun el Id. */
     bool operator>(const imagen &rhs) const;
-
+    /** Operador <= de la clase imagen. Compara segun el Id. */
     bool operator<=(const imagen &rhs) const;
-
+    /** Operador >= de la clase imagen. Compara segun el Id. */
     bool operator>=(const imagen &rhs) const;
+    /** Operador == de la clase imagen. Compara segun el Id. */
+    bool operator==(const imagen &rhs) const;
+    /** Operador = de la clase imagen. */
+    imagen &operator=(imagen img);
+    /** Destructor de imagen. */
+    virtual ~imagen();
 };
 
 
